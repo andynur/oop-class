@@ -23,13 +23,7 @@ class AndyDateTime
 			$strTime = date($this->format);
 
 		$this->date = date($this->format, strtotime($strTime));
-		$myDate = $this->date;
 		return $this->date;
-	}
-
-	public function getDate()
-	{
-		return $this->date = ;
 	}
 
 	public function addDays($days)
