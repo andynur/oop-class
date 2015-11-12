@@ -10,6 +10,8 @@
 	<h1>Ini adalah basic penggunaan git.</h1>
 	<ul>
 		<li>Ini List 1</li>
+		<li>Ini List 2</li>
+		<li>Ini List 3</li>
 	</ul>
 </body>
 </html>
