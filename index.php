@@ -14,6 +14,7 @@
 		<li>Ini List 3</li>
 		<li>Ini List 4</li>
 		<li>Ini List 5</li>
+		<li>Ini List 6</li>
 	</ul>
 </body>
 </html>
