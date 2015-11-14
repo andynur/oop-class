@@ -12,5 +12,13 @@
 	proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
 	<h1>Reset Gan</h1>
+	<p>Lorem ipsum dolor sit amet.</p>
+	<ul>
+		<li><a href="">Item 1</a></li>
+		<li><a href="">Item 2</a></li>
+		<li><a href="">Item 3</a></li>
+		<li><a href="">Item 4</a></li>
+		<li><a href="">Item 5</a></li>
+	</ul>
 </body>
 </html>
