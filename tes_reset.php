@@ -14,8 +14,8 @@
 	<h1>Reset Gan</h1>
 	<p>Lorem ipsum dolor sit amet.</p>
 	<ul>
-		<li><a href="">Item 110</a></li>
-		<li><a href="">Item 220</a></li>
+		<li><a href="">Item 10</a></li>
+		<li><a href="">Item 20</a></li>
 		<li><a href="">Item 30</a></li>
 		<li><a href="">Item 40</a></li>
 		<li><a href="">Item 50</a></li>
