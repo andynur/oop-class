@@ -13,7 +13,6 @@
 		<li>Ini List 21</li>
 		<li>Ini List 34</li>
 		<li>Ini List 55</li>
-		<li>Bismillah</li>
 	</ul>
 </body>
 </html>
