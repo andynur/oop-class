@@ -9,12 +9,9 @@
 <body>
 	<h1>Ini adalah basic penggunaan git.</h1>
 	<ul>
-		<li>Ini List 1</li>
-		<li>Ini List 2</li>
-		<li>Ini List 3</li>
-		<li>Ini List 4</li>
-		<li>Ini List 5</li>
-		<li>Ini List 6</li>
+		<li>Ini List 12</li>
+		<li>Ini List 21</li>
+		<li>Ini List 34</li>
 	</ul>
 </body>
 </html>
