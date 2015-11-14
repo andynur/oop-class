@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <!DOCTYPE html>
 <html>
 <head>
@@ -128,4 +127,3 @@ echo "Day Range With 2015-10-11 12:00:00 => ".$date->dayRangeWith("2015-10-11 12
 // $date2->hourRangeWith($date); // 10
 
 // echo $date->format('d M Y');
->>>>>>> andy/master
